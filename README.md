@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ashutosh Kumar Singh! 👋
 
+I'm currently a Senior Software Engineer at Accenture. Most of my repositories on GitHub are personal and were used for learning. My prefered langugage is Javascript so most of my projects are in javascripts and ites frame work like react node angular react native.
 <!--
 **ashu051995/ashu051995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
